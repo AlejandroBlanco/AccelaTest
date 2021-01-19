@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Alex
+Build-Jdk: 10.0.2
+Class-Path: libs/mysql-connector-java-8.0.13.jar libs/protobuf-java-3.
+ 6.1.jar
+Main-Class: com.accela.test.dbconsole.App
+Created-By: Maven Integration for Eclipse
+
