@@ -15,7 +15,6 @@ And the DB connection info is:
 
 USER = "agenda"
 PASS = "Agenda654App"
-CONN = "jdbc:mysql://127.0.0.1:3306/agenda?useSSL=false&useUnicode=yes&"
-+ "characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
+CONN = "jdbc:mysql://127.0.0.1:3306/agenda?useSSL=false&useUnicode=yes&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC"
 
 It will run any command passed in the console as expected, plus it will display an internal menu to keep running commands withoout leaving the application
